@@ -1,4 +1,4 @@
-task done in the analysis
+Task done in the analysis
 
 1:Load the "retail.csv" dataset into a Pandas DataFrame called fd.
 
